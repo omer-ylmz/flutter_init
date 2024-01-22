@@ -1,0 +1,48 @@
+name: bolum_23_tasarimi_kolaylastiracak_yapilar
+description: "A new Flutter project."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.4 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  fonts: #yazi türlerini programa vermek için kullanılan yapi
+    - family: ElYazisi
+      fonts:
+        - asset: assets/fonts/Pacifico-Regular.ttf
+    - family: Genel
+      fonts:
+        - asset: assets/fonts/Ubuntu-Regular.ttf
+        - asset: assets/fonts/Ubuntu-Bold.ttf
+          weight: 700
+  uses-material-design: true
+
+  assets: # kişisel font kullanimi için asseti açmak
+    - assets/
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
