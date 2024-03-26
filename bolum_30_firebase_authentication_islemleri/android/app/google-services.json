@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "528508584293",
+    "project_id": "flutter-firebase-dersler-b6115",
+    "storage_bucket": "flutter-firebase-dersler-b6115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528508584293:android:306db220be8aac4da3618c",
+        "android_client_info": {
+          "package_name": "com.example.bolum_30_firebase_authentication_islemleri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAagfFR1YiQFPXWAvd60x8tauUueO1vGdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
